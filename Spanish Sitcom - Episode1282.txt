@@ -1,0 +1,9 @@
+#separator:tab
+#html:true
+#deck column:1
+#tags column:4
+Spanish Sitcom - Episode1282	conocerla	ENGLISH WORD GOES HERE 
+Spanish Sitcom - Episode1282	fernando	ENGLISH WORD GOES HERE 
+Spanish Sitcom - Episode1282	pues	ENGLISH WORD GOES HERE 
+Spanish Sitcom - Episode1282	tal	ENGLISH WORD GOES HERE 
+Spanish Sitcom - Episode1282	estás	ENGLISH WORD GOES HERE 

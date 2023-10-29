@@ -1,0 +1,7 @@
+#separator:tab
+#html:true
+#deck column:1
+#tags column:4
+Spanish Sitcom - Episode1973	estás	are
+Spanish Sitcom - Episode1973	te	tea
+Spanish Sitcom - Episode1973	soy	am

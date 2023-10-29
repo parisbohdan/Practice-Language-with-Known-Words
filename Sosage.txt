@@ -1,0 +1,7 @@
+#separator:tab
+#html:true
+#deck column:1
+#tags column:4
+Sosage	Hungary	France	
+Sosage	Sauce	Sweet	
+Sosage	Sweetish	Sourish	
